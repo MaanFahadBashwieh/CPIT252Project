@@ -1,4 +1,4 @@
-Introduction
+Introduction:
 The way we travel has evolved as a result of digital technology, which has made flight and trip planning simpler. Finding the greatest flight deals can still be difficult for those who have flexible trip dates. The majority of booking apps make it difficult to compare costs between different days. This issue is intended to be resolved by our newest product, the Flexible Date Explorer, which assists consumers in finding the cheapest flights quickly.
 Problem Definition
  Many flight booking apps do not support people who can travel on any day and want the cheapest flights. Finding the best prices frequently requires users to check a large number of dates, which is time-customers. Furthermore, users are unable to make the best decisions because these apps are unable to predict when prices may rise or fall. This leads to a difficult and potentially costly flight booking experience.
@@ -24,7 +24,7 @@ When prices drop for particular flights or dates send notifications
 Different Locations:
 Recommend less expensive locations based on user preferences.
 
-Expected Results
+Expected Results:
 Travelers enjoy a budget-friendly flight booking experience.
 The app positions itself as a competitive tool in the travel industry by catering to flexible travelers.
 Encourages more travel planning.
